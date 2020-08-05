@@ -5,3 +5,15 @@
   color: blue;
 }
 
+span1 {
+  color: red;
+}
+
+span2 {
+  color: green;
+}
+
+span3 {
+  color: purple;
+  font-weight: bold;
+}

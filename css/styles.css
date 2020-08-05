@@ -1,0 +1,7 @@
+.important h2 ,h1, ul {
+ color: yellow;
+}
+.unimportant p {
+  color: blue;
+}
+
